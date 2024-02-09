@@ -18,5 +18,9 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Overview
+   Installation
+   Function Reference
+   Tutorial
+   Example
+   Citation
